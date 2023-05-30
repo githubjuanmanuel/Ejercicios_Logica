@@ -23,3 +23,4 @@ function permutacion2(secuencia, numero) {
     }
     return true;
 }
+console.log(permutacion2([1,2,3,4,6,9],9));
